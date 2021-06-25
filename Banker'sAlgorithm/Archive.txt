@@ -1,0 +1,164 @@
+ITERACION#: 1
+
+
+REJECTED:
+Process ID: w 
+Original matrix: [3, 3, 4, 5, 6, 2]
+No resources available.
+
+ADMITTED:
+Process ID: h 
+Original matrix: [3, 4, 2, 0, 0, 0]
+
+ADMITTED:
+Process ID: k 
+Original matrix: [3, 3, 2, 1, 2, 1]
+
+REJECTED:
+Process ID: r 
+Original matrix: [3, 4, 5, 6, 2, 3]
+No resources available.
+
+ADMITTED:
+Process ID: t 
+Original matrix: [4, 2, 0, 0, 0, 3]
+
+ADMITTED:
+Process ID: y 
+Original matrix: [3, 3, 2, 1, 2, 1]
+
+RELEASED:
+Process ID: t 
+Original matrix: [4, 2, 0, 0, 0, 3]
+
+ITERACION#: 2
+
+
+REJECTED:
+Process ID: u 
+Original matrix: [5, 3, 0, 2, 0, 3]
+No resources available.
+
+ADMITTED:
+Process ID: z 
+Original matrix: [0, 0, 0, 0, 1, 3]
+
+RELEASED:
+Process ID: h 
+Original matrix: [3, 4, 2, 0, 0, 0]
+
+ITERACION#: 3
+
+
+ADMITTED:
+Process ID: i 
+Original matrix: [1, 2, 1, 2, 0, 3]
+
+RELEASED:
+Process ID: k 
+Original matrix: [3, 3, 2, 1, 2, 1]
+
+ITERACION#: 4
+
+
+REJECTED:
+Process ID: o 
+Original matrix: [3, 4, 5, 6, 2, 3]
+No resources available.
+
+ADMITTED:
+Process ID: m 
+Original matrix: [4, 2, 0, 0, 0, 3]
+
+RELEASED:
+Process ID: y 
+Original matrix: [3, 3, 2, 1, 2, 1]
+
+RELEASED:
+Process ID: z 
+Original matrix: [0, 0, 0, 0, 1, 3]
+
+ITERACION#: 5
+
+
+ADMITTED:
+Process ID: n 
+Original matrix: [3, 2, 1, 2, 1, 3]
+
+REJECTED:
+Process ID: b 
+Original matrix: [3, 3, 4, 5, 6, 2]
+No resources available.
+
+ADMITTED:
+Process ID: v 
+Original matrix: [4, 2, 3, 0, 0, 0]
+
+RELEASED:
+Process ID: i 
+Original matrix: [1, 2, 1, 2, 0, 3]
+
+ITERACION#: 6
+
+
+ADMITTED:
+Process ID: c 
+Original matrix: [3, 2, 1, 3, 2, 1]
+
+RELEASED:
+Process ID: m 
+Original matrix: [4, 2, 0, 0, 0, 3]
+
+ITERACION#: 7
+
+
+REJECTED:
+Process ID: x 
+Original matrix: [5, 3, 0, 2, 3, 0]
+No resources available.
+
+ADMITTED:
+Process ID: z 
+Original matrix: [0, 0, 0, 0, 1, 3]
+
+RELEASED:
+Process ID: v 
+Original matrix: [4, 2, 3, 0, 0, 0]
+
+ITERACION#: 8
+
+
+ADMITTED:
+Process ID: a 
+Original matrix: [3, 1, 2, 1, 2, 0]
+
+RELEASED:
+Process ID: n 
+Original matrix: [3, 2, 1, 2, 1, 3]
+
+ITERACION#: 9
+
+
+REJECTED:
+Process ID: f 
+Original matrix: [3, 3, 4, 5, 6, 2]
+No resources available.
+
+RELEASED:
+Process ID: c 
+Original matrix: [3, 2, 1, 3, 2, 1]
+
+RELEASED:
+Process ID: z 
+Original matrix: [0, 0, 0, 0, 1, 3]
+
+ITERACION#: 10
+
+
+RELEASED:
+Process ID: a 
+Original matrix: [3, 1, 2, 1, 2, 0]
+
+Released: 12
+Iteraciones: 10
+Average: 1.2
